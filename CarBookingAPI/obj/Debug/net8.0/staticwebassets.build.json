@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "VyhpYPeMd4YF+Jrp1LWds2ebDjtmJ1FlgwPE0unIBp0=",
+  "Source": "CarBookingAPI",
+  "BasePath": "_content/CarBookingAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CarBookingAPI\\wwwroot",
+      "Source": "CarBookingAPI",
+      "ContentRoot": "C:\\Users\\User\\Downloads\\CarBookingAPI\\CarBookingAPI\\wwwroot\\",
+      "BasePath": "_content/CarBookingAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

@@ -1,0 +1,267 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Downloads\\CarBookingAPI\\CarBookingAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A11987A2-0F7B-4F7B-97A5-85E676C9D7C6}|CarBookingAPI.csproj|C:\\Users\\User\\Downloads\\CarBookingAPI\\CarBookingAPI\\controllers\\emailsendercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11987A2-0F7B-4F7B-97A5-85E676C9D7C6}|CarBookingAPI.csproj|solutionrelative:controllers\\emailsendercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11987A2-0F7B-4F7B-97A5-85E676C9D7C6}|CarBookingAPI.csproj|C:\\Users\\User\\Downloads\\CarBookingAPI\\CarBookingAPI\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A11987A2-0F7B-4F7B-97A5-85E676C9D7C6}|CarBookingAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11987A2-0F7B-4F7B-97A5-85E676C9D7C6}|CarBookingAPI.csproj|C:\\Users\\User\\Downloads\\CarBookingAPI\\CarBookingAPI\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11987A2-0F7B-4F7B-97A5-85E676C9D7C6}|CarBookingAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11987A2-0F7B-4F7B-97A5-85E676C9D7C6}|CarBookingAPI.csproj|C:\\Users\\User\\Downloads\\CarBookingAPI\\CarBookingAPI\\models\\formmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11987A2-0F7B-4F7B-97A5-85E676C9D7C6}|CarBookingAPI.csproj|solutionrelative:models\\formmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11987A2-0F7B-4F7B-97A5-85E676C9D7C6}|CarBookingAPI.csproj|C:\\Users\\User\\Downloads\\CarBookingAPI\\CarBookingAPI\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11987A2-0F7B-4F7B-97A5-85E676C9D7C6}|CarBookingAPI.csproj|solutionrelative:controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11987A2-0F7B-4F7B-97A5-85E676C9D7C6}|CarBookingAPI.csproj|c:\\users\\user\\downloads\\carbookingapi\\carbookingapi\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11987A2-0F7B-4F7B-97A5-85E676C9D7C6}|CarBookingAPI.csproj|solutionrelative:controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11987A2-0F7B-4F7B-97A5-85E676C9D7C6}|CarBookingAPI.csproj|C:\\Users\\User\\Downloads\\CarBookingAPI\\CarBookingAPI\\dataseeds\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11987A2-0F7B-4F7B-97A5-85E676C9D7C6}|CarBookingAPI.csproj|solutionrelative:dataseeds\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11987A2-0F7B-4F7B-97A5-85E676C9D7C6}|CarBookingAPI.csproj|C:\\Users\\User\\Downloads\\CarBookingAPI\\CarBookingAPI\\controllers\\workexperiencecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11987A2-0F7B-4F7B-97A5-85E676C9D7C6}|CarBookingAPI.csproj|solutionrelative:controllers\\workexperiencecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11987A2-0F7B-4F7B-97A5-85E676C9D7C6}|CarBookingAPI.csproj|C:\\Users\\User\\Downloads\\CarBookingAPI\\CarBookingAPI\\enums\\transmissiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11987A2-0F7B-4F7B-97A5-85E676C9D7C6}|CarBookingAPI.csproj|solutionrelative:enums\\transmissiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11987A2-0F7B-4F7B-97A5-85E676C9D7C6}|CarBookingAPI.csproj|C:\\Users\\User\\Downloads\\CarBookingAPI\\CarBookingAPI\\models\\filtermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11987A2-0F7B-4F7B-97A5-85E676C9D7C6}|CarBookingAPI.csproj|solutionrelative:models\\filtermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11987A2-0F7B-4F7B-97A5-85E676C9D7C6}|CarBookingAPI.csproj|C:\\Users\\User\\Downloads\\CarBookingAPI\\CarBookingAPI\\models\\workexperience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11987A2-0F7B-4F7B-97A5-85E676C9D7C6}|CarBookingAPI.csproj|solutionrelative:models\\workexperience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11987A2-0F7B-4F7B-97A5-85E676C9D7C6}|CarBookingAPI.csproj|C:\\Users\\User\\Downloads\\CarBookingAPI\\CarBookingAPI\\enums\\cartype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11987A2-0F7B-4F7B-97A5-85E676C9D7C6}|CarBookingAPI.csproj|solutionrelative:enums\\cartype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11987A2-0F7B-4F7B-97A5-85E676C9D7C6}|CarBookingAPI.csproj|C:\\Users\\User\\Downloads\\CarBookingAPI\\CarBookingAPI\\controllers\\pagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11987A2-0F7B-4F7B-97A5-85E676C9D7C6}|CarBookingAPI.csproj|solutionrelative:controllers\\pagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11987A2-0F7B-4F7B-97A5-85E676C9D7C6}|CarBookingAPI.csproj|C:\\Users\\User\\Downloads\\CarBookingAPI\\CarBookingAPI\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11987A2-0F7B-4F7B-97A5-85E676C9D7C6}|CarBookingAPI.csproj|solutionrelative:models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11987A2-0F7B-4F7B-97A5-85E676C9D7C6}|CarBookingAPI.csproj|C:\\Users\\User\\Downloads\\CarBookingAPI\\CarBookingAPI\\views\\pages\\fromemailsend.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A11987A2-0F7B-4F7B-97A5-85E676C9D7C6}|CarBookingAPI.csproj|solutionrelative:views\\pages\\fromemailsend.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\CarBookingAPI\\CarBookingAPI\\Models\\FormModel.cs",
+              "RelativeDocumentMoniker": "Models\\FormModel.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\CarBookingAPI\\CarBookingAPI\\Models\\FormModel.cs",
+              "RelativeToolTip": "Models\\FormModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T08:24:04.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CarsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\CarBookingAPI\\CarBookingAPI\\Controllers\\CarsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CarsController.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\CarBookingAPI\\CarBookingAPI\\Controllers\\CarsController.cs",
+              "RelativeToolTip": "Controllers\\CarsController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T15:26:24.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmailSenderController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\CarBookingAPI\\CarBookingAPI\\Controllers\\EmailSenderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmailSenderController.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\CarBookingAPI\\CarBookingAPI\\Controllers\\EmailSenderController.cs",
+              "RelativeToolTip": "Controllers\\EmailSenderController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAtwD8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T08:22:22.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Seed.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\CarBookingAPI\\CarBookingAPI\\DataSeeds\\Seed.cs",
+              "RelativeDocumentMoniker": "DataSeeds\\Seed.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\CarBookingAPI\\CarBookingAPI\\DataSeeds\\Seed.cs",
+              "RelativeToolTip": "DataSeeds\\Seed.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T08:08:10.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CommentsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\CarBookingAPI\\CarBookingAPI\\Controllers\\CommentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CommentsController.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\CarBookingAPI\\CarBookingAPI\\Controllers\\CommentsController.cs",
+              "RelativeToolTip": "Controllers\\CommentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T17:10:34.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\CarBookingAPI\\CarBookingAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\CarBookingAPI\\CarBookingAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAowA0AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T07:55:57.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\CarBookingAPI\\CarBookingAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Downloads\\CarBookingAPI\\CarBookingAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-02T17:20:31.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WorkExperienceController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\CarBookingAPI\\CarBookingAPI\\Controllers\\WorkExperienceController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WorkExperienceController.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\CarBookingAPI\\CarBookingAPI\\Controllers\\WorkExperienceController.cs",
+              "RelativeToolTip": "Controllers\\WorkExperienceController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T08:07:21.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TransmissionType.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\CarBookingAPI\\CarBookingAPI\\Enums\\TransmissionType.cs",
+              "RelativeDocumentMoniker": "Enums\\TransmissionType.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\CarBookingAPI\\CarBookingAPI\\Enums\\TransmissionType.cs",
+              "RelativeToolTip": "Enums\\TransmissionType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T14:05:27.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WorkExperience.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\CarBookingAPI\\CarBookingAPI\\Models\\WorkExperience.cs",
+              "RelativeDocumentMoniker": "Models\\WorkExperience.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\CarBookingAPI\\CarBookingAPI\\Models\\WorkExperience.cs",
+              "RelativeToolTip": "Models\\WorkExperience.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T08:06:05.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FilterModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\CarBookingAPI\\CarBookingAPI\\Models\\FilterModel.cs",
+              "RelativeDocumentMoniker": "Models\\FilterModel.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\CarBookingAPI\\CarBookingAPI\\Models\\FilterModel.cs",
+              "RelativeToolTip": "Models\\FilterModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T14:16:23.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CarType.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\CarBookingAPI\\CarBookingAPI\\Enums\\CarType.cs",
+              "RelativeDocumentMoniker": "Enums\\CarType.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\CarBookingAPI\\CarBookingAPI\\Enums\\CarType.cs",
+              "RelativeToolTip": "Enums\\CarType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T14:05:22.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PagesController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\CarBookingAPI\\CarBookingAPI\\Controllers\\PagesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PagesController.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\CarBookingAPI\\CarBookingAPI\\Controllers\\PagesController.cs",
+              "RelativeToolTip": "Controllers\\PagesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T17:55:15.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\CarBookingAPI\\CarBookingAPI\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "Models\\Car.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\CarBookingAPI\\CarBookingAPI\\Models\\Car.cs",
+              "RelativeToolTip": "Models\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T14:16:20.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FromEmailSend.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\CarBookingAPI\\CarBookingAPI\\Views\\Pages\\FromEmailSend.cshtml",
+              "RelativeDocumentMoniker": "Views\\Pages\\FromEmailSend.cshtml",
+              "ToolTip": "C:\\Users\\User\\Downloads\\CarBookingAPI\\CarBookingAPI\\Views\\Pages\\FromEmailSend.cshtml",
+              "RelativeToolTip": "Views\\Pages\\FromEmailSend.cshtml",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAowBQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T17:59:08.664Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

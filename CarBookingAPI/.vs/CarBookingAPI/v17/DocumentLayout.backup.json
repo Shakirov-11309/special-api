@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\timer\\source\\repos\\CarBookingAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A11987A2-0F7B-4F7B-97A5-85E676C9D7C6}|CarBookingAPI.csproj|c:\\users\\timer\\source\\repos\\carbookingapi\\controllers\\emailsendercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11987A2-0F7B-4F7B-97A5-85E676C9D7C6}|CarBookingAPI.csproj|solutionrelative:controllers\\emailsendercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11987A2-0F7B-4F7B-97A5-85E676C9D7C6}|CarBookingAPI.csproj|c:\\users\\timer\\source\\repos\\carbookingapi\\models\\formmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11987A2-0F7B-4F7B-97A5-85E676C9D7C6}|CarBookingAPI.csproj|solutionrelative:models\\formmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11987A2-0F7B-4F7B-97A5-85E676C9D7C6}|CarBookingAPI.csproj|c:\\users\\timer\\source\\repos\\carbookingapi\\controllers\\workexperiencecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11987A2-0F7B-4F7B-97A5-85E676C9D7C6}|CarBookingAPI.csproj|solutionrelative:controllers\\workexperiencecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11987A2-0F7B-4F7B-97A5-85E676C9D7C6}|CarBookingAPI.csproj|c:\\users\\timer\\source\\repos\\carbookingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11987A2-0F7B-4F7B-97A5-85E676C9D7C6}|CarBookingAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11987A2-0F7B-4F7B-97A5-85E676C9D7C6}|CarBookingAPI.csproj|c:\\users\\timer\\source\\repos\\carbookingapi\\dataseeds\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11987A2-0F7B-4F7B-97A5-85E676C9D7C6}|CarBookingAPI.csproj|solutionrelative:dataseeds\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11987A2-0F7B-4F7B-97A5-85E676C9D7C6}|CarBookingAPI.csproj|c:\\users\\timer\\source\\repos\\carbookingapi\\models\\workexperience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11987A2-0F7B-4F7B-97A5-85E676C9D7C6}|CarBookingAPI.csproj|solutionrelative:models\\workexperience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:622716734:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormModel.cs",
+              "DocumentMoniker": "C:\\Users\\timer\\source\\repos\\CarBookingAPI\\Models\\FormModel.cs",
+              "RelativeDocumentMoniker": "Models\\FormModel.cs",
+              "ToolTip": "C:\\Users\\timer\\source\\repos\\CarBookingAPI\\Models\\FormModel.cs",
+              "RelativeToolTip": "Models\\FormModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T08:24:04.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmailSenderController.cs",
+              "DocumentMoniker": "C:\\Users\\timer\\source\\repos\\CarBookingAPI\\Controllers\\EmailSenderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmailSenderController.cs",
+              "ToolTip": "C:\\Users\\timer\\source\\repos\\CarBookingAPI\\Controllers\\EmailSenderController.cs",
+              "RelativeToolTip": "Controllers\\EmailSenderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T08:22:22.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Seed.cs",
+              "DocumentMoniker": "C:\\Users\\timer\\source\\repos\\CarBookingAPI\\DataSeeds\\Seed.cs",
+              "RelativeDocumentMoniker": "DataSeeds\\Seed.cs",
+              "ToolTip": "C:\\Users\\timer\\source\\repos\\CarBookingAPI\\DataSeeds\\Seed.cs",
+              "RelativeToolTip": "DataSeeds\\Seed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T08:08:10.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WorkExperienceController.cs",
+              "DocumentMoniker": "C:\\Users\\timer\\source\\repos\\CarBookingAPI\\Controllers\\WorkExperienceController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WorkExperienceController.cs",
+              "ToolTip": "C:\\Users\\timer\\source\\repos\\CarBookingAPI\\Controllers\\WorkExperienceController.cs",
+              "RelativeToolTip": "Controllers\\WorkExperienceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T08:07:21.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WorkExperience.cs",
+              "DocumentMoniker": "C:\\Users\\timer\\source\\repos\\CarBookingAPI\\Models\\WorkExperience.cs",
+              "RelativeDocumentMoniker": "Models\\WorkExperience.cs",
+              "ToolTip": "C:\\Users\\timer\\source\\repos\\CarBookingAPI\\Models\\WorkExperience.cs",
+              "RelativeToolTip": "Models\\WorkExperience.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T08:06:05.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\timer\\source\\repos\\CarBookingAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\timer\\source\\repos\\CarBookingAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T07:55:57.353Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
